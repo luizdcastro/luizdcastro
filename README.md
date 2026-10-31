@@ -17,5 +17,3 @@ I've spent the last 10 years on the technical side of payments, fintech and frau
 ### What I work with
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img alt="TypeScript, React, Next.js, Node.js, Python, Rust, Go, PostgreSQL, MongoDB, AWS" src="assets/stack-light.svg" width="100%"></picture>
-
-<sub>The older repos here are things I built while learning React, React Native and Node. I keep them up because they show where I started.</sub>
