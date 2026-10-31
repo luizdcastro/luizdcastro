@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="TypeScript, React, Next.js, Node.js, Python, Rust, Go, PostgreSQL, MongoDB, AWS">
-<line x1="0" y1=".5" x2="1200" y2=".5" stroke="#26262b"/><line x1="0" y1="63.5" x2="1200" y2="63.5" stroke="#26262b"/>
-<text x="600" y="38" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="17" letter-spacing=".5" fill="#c7c7cc">TypeScript<tspan fill="#4a4a52">   /   </tspan>React<tspan fill="#4a4a52">   /   </tspan>Next.js<tspan fill="#4a4a52">   /   </tspan>Node.js<tspan fill="#4a4a52">   /   </tspan>Python<tspan fill="#4a4a52">   /   </tspan>Rust<tspan fill="#4a4a52">   /   </tspan>Go<tspan fill="#4a4a52">   /   </tspan>PostgreSQL<tspan fill="#4a4a52">   /   </tspan>MongoDB<tspan fill="#4a4a52">   /   </tspan>AWS</text>
-</svg>
